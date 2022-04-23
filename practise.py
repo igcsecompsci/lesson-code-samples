@@ -1,0 +1,2 @@
+a = "auota"
+print(a)
