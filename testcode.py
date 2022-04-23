@@ -1,0 +1,3 @@
+print("Complete the paragraph")
+
+print("Recently, I had the pleasure of seeing one of William Shakespeare's most beloved comedies, A Midsummer Night's Dream, performed beautifully at the Los Angeles Repertory Theatre in downtown Los Angeles. At first glance, this performance space looks more like an industrial warehouse than an art house, but walking in you are transformed to the magical land of Midsummer.")
